@@ -1,0 +1,66 @@
+From: cs151025
+To: jmasood33@gmail.com
+The following data is encrypted by Morse code cipher on Mon May 30 13:40:00 2016
+hello world !
+
+
+From:saadyaseen136@yahoo.com
+To:2
+The following data is encrypted by Caeser cipher on Mon May 30 13:43:44 2016
+hello world
+
+
+From: saadyaseen136@yahoo.com
+To: d
+The following data is encrypted by Morse code cipher on Mon May 30 13:44:02 2016
+hello world
+
+
+From: cs151020
+To: cs151035
+The following data is encrypted by Morse code cipher on Mon May 30 13:48:28 2016
+hi daniyall !
+
+
+From: cs151033
+To: cs151147
+The following data is encrypted by Morse code cipher on Mon May 30 14:09:43 2016
+Hey
+
+
+From:cs151147
+To:cs151033
+The following data is encrypted by Caeser cipher on Mon May 30 14:11:28 2016
+aur sakshi kya haal hai ? sab thek thak ? tahe vae
+
+
+From: Cs151054
+To: ahmed@gmail.com
+The following data is encrypted by Morse code cipher on Mon May 30 14:35:37 2016
+Hi ahmed tu acha bacha hai magar buuhat rota hai
+
+
+From: cs151025
+To: cs151020
+The following data is encrypted by Morse code cipher on Mon May 30 16:29:43 2016
+hello world
+
+
+From: cs151025
+To: osamamunaf786
+The following data is encrypted by Morse code cipher on Thu Nov 17 18:57:16 2016
+Osama bhai kaisa hai khoti ka bacha gandoo insan
+
+
+From: cs151020
+To: ali@gmail.com
+The following data is encrypted by Morse code cipher on Fri Mar 03 17:49:36 2017
+talha buhat ganda bacha hai
+
+
+From: cs151020
+To: no
+The following data is encrypted by Vignere cipher on Fri Mar 03 17:50:21 2017
+maaz parhta blkul bhi naghin hai
+
+
